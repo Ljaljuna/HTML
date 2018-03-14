@@ -1,0 +1,21 @@
+* {
+	font-family: helvetica, arial, sans-serif;
+	background: #7FFFD4;
+	}
+	.description {
+		color:black;
+					}
+				
+	.questions { font-size: 22px;
+	}
+	.footer:{
+		     background-color: ##696969;
+		     font-family: "Circe Bold";
+		   
+		   	}
+		   	.text:{
+		   		float: left
+		   	}
+
+
+
